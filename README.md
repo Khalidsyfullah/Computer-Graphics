@@ -1,0 +1,2 @@
+# Resort Backyard Design Using OpenGL (GL, GLU, GLUT)
+This project focuses on creating a 3D model of a resort backyard using OpenGL. It utilizes basic graphics techniques such as translation, rotation, shading, and lighting to design realistic outdoor spaces. The project demonstrates how OpenGL can be used to simulate and visualize a resort backyard environment with textured surfaces and interactive elements.
